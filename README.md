@@ -1,4 +1,3 @@
-name : Tsurugi IEYAMA.
-birth : 2000/12/22
-address : Hakodate, Hokkaido, Japan.
-affiliation : Future University of Hakodate
+Tsurugi IEYAMA, 2000/12/22
+Hakodate, Hokkaido, Japan
+Future University of Hakodate
